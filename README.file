@@ -1,0 +1,35 @@
+|| 🔐 Advanced Password Generator ||
+
+A sleek, powerful, and customizable || Password Generator || that helps you create strong, secure, and unique passwords in just one click. Built using | HTML | CSS | JavaScript | this tool ensures your online security with simplicity and style.
+
+--- 
+
+||  🎯 Features ||
+
+- ✅ Generate strong random passwords instantly  
+- 🔢 Customizable: Choose length, include numbers, symbols, and more  
+- 🎨 Clean, responsive UI with interactive design  
+- 🔁 Regenerate passwords with one click  
+- 📋 Copy to clipboard functionality  
+- 💡 Error handling for user input
+
+---
+
+|| 🧠 Tech Stack ||
+
+Frontend | HTML5 | CSS3 | JavaScript (Vanilla)
+
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode (Optional) |
+|------------|----------------------|
+
+---
+
+ ⚙️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/farhanbaber/password-generator.git
