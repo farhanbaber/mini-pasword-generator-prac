@@ -1,0 +1,12 @@
+.container{
+    position: relative;
+    top: 12rem;
+    width: 20%;
+    height: 15vh;
+    padding: 20px;
+    background-color: rgb(5, 85, 112);
+    border-radius: 10px;
+    }
+    body{
+        background-color: rgb(1, 30, 34);
+    }
